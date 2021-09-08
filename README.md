@@ -1,58 +1,63 @@
-# Frontend Mentor - Calculator app solution
+# Frontend Mentor - Interactive pricing component solution
 
-This is a solution to the [Calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive pricing component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
-- [Frontend Mentor - Calculator app solution](#frontend-mentor---calculator-app-solution)
+- [Frontend Mentor - Interactive pricing component solution](#frontend-mentor---interactive-pricing-component-solution)
   - [Table of contents](#table-of-contents)
-  - [Getting started](#getting-started)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-## Getting started
-- The first thing you need is node. For installation you can go to [node.js](https://nodejs.org/en/).
-- Next you need Gulp. Once you have node installed you can follow the installation instructions [here](https://gulpjs.com/).
-- Now you must clone this repository. Path to the repository folder and type `npm install`, it will automatically install all the dependencies needed to make the system work.
+## Overview
 
-At this point everything is ready for you to start working.
-```bash
-  gulp watch
-```
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Use the slider and toggle to see prices for different page view numbers
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.jpg)
 
 ### Links
 
-- [Solution URL](https://github.com/nmorajda/calculator-app)
-- [Live Site URL](https://nmorajda.github.io/calculator-app/www)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- SCSS custom properties
+- CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- JavaScript
-- Gulp
+- JavaScript ES6
+
+### What I learned
+
+### Continued development
 
 ### Useful resources
 
 ## Author
 
-- Website - [ABM Studio](https://abmstudio.pl)
-- GitHub - [nmorajda](https://github.com/nmorajda)
+- Website - [N. Morajda](https://abmstudio.pl)
 - Frontend Mentor - [@nmorajda](https://www.frontendmentor.io/profile/nmorajda)
 
 ## Acknowledgments
-[Build A Calculator With JavaScript Tutorial](https://www.youtube.com/watch?v=j59qQ7YWLxw)
 
+- Styling Cross-Browser Compatible Range Inputs with CSS: [https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)
